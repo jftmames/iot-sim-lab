@@ -1,0 +1,5 @@
+paho-mqtt
+matplotlib
+pandas
+python-dotenv
+streamlit
